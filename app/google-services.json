@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953349007169",
+    "project_id": "yourhealth-4c7a3",
+    "storage_bucket": "yourhealth-4c7a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953349007169:android:944de70b7273339322a3c0",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpoLshzWAHactEC-jDdG9O4Lkg1hyJrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

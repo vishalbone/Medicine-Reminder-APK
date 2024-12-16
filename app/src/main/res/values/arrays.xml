@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frequency_options">
+        <item>1 time per week</item>
+        <item>2 times per week</item>
+        <item>3 times per week</item>
+        <item>4 times per week</item>
+        <item>5 times per week</item>
+        <item>6 times per week</item>
+        <item>7 times per week</item>
+    </string-array>
+</resources>

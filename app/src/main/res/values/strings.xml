@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string-array name="medicine_types">
+        <item>Tablet</item>
+        <item>Liquid</item>
+        <item>Cream</item>
+    </string-array>
+</resources>
